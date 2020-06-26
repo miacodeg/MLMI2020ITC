@@ -6,7 +6,7 @@ Cashier module,
 Employee Module,
 Stock module.
 We aim to code programs that make all of this operations function.
-A general ttake on how these programes would run and be computed.
+A general take on how these programes would run and be computed, on a supermaket, we aim to make systems that support the functions of a business.
 our contributers.
 Macdonald .G,
 Abilio J.P,
